@@ -5,4 +5,4 @@ En este proyecto se desarrolla una búsqueda de letras de canciones consumiendo 
 https://gastonschiaffino.github.io/JavaScript-Letras-De-Canciones-Api/
 
 ### :tv: Home Screen
-![home](/assets/.png)
+![home](/assets/cancionero.png)
